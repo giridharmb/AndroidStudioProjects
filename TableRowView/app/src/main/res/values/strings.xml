@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Table Row View</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Text Description</string>
 </resources>
